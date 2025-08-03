@@ -1,2 +1,2 @@
 # PVF-DectNet-
-PVF-DectNet++ builds on our prior work by employing a perspective voxel projection technique to align both feature types.
+Once our work "PVF-DectNet++: Adaptive Multi-Modal Fusion with Perspective Voxels for 3D Object Detection" is accepted, the code and model will be made public.
