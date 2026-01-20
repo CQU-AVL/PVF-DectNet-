@@ -1,6 +1,1 @@
 
-# Ablation Study
-
-- Dual-hash voxelization improves mAP by +1.41% over conventional voxelization.
-- RGB-I early fusion outperforms late fusion by 0.79%.
-- Channel-wise weighting and cross-attention are complementary.
