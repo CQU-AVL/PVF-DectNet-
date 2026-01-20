@@ -10,7 +10,7 @@ This repository corresponds to the paper:
 
 ---
 
-## 🔍 Overview
+## Overview
 
 PVF-DectNet++ is a multi-modal 3D object detection framework that fuses LiDAR point clouds and RGB images through **perspective voxel projection** and **learning-aware feature fusion**.  
 It addresses limitations of fixed-weight fusion and insufficient image depth semantics in existing LiDAR–camera fusion methods.
@@ -23,7 +23,7 @@ Key highlights:
 
 ---
 
-## 🧠 Method
+## Method
 
 The framework consists of four main components:
 
@@ -36,7 +36,7 @@ The framework consists of four main components:
 
 ---
 
-## 📊 Experimental Results
+## Experimental Results
 
 PVF-DectNet++ achieves consistent improvements over prior methods:
 
