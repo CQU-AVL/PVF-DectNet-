@@ -32,7 +32,7 @@ The framework consists of four main components:
 3. **Learning-aware fusion module** (channel + cross attention)
 4. **Sparse convolution backbone with RPN detection head**
 
-![Framework](docs/figures/framework.png)
+![PVF-DectNet++ Framework](Figures/fig2.png)
 
 ---
 
