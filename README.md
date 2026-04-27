@@ -1,14 +1,5 @@
 # PVF-DectNet++
 
-**Adaptive Multi-Modal Fusion with Perspective Voxels for 3D Object Detection**
-
-This repository corresponds to the paper:
-
-> **PVF-DectNet++: Adaptive Multi-Modal Fusion with Perspective Voxels for 3D Object Detection**  
-> Ke Wang, Weilin Gao, Kai Chen, Tianyi Shao, Liyang Li, Tianqiang Zhou, Jianbo Lu  
-
----
-
 ## Overview
 
 PVF-DectNet++ is a multi-modal 3D object detection framework that fuses LiDAR point clouds and RGB images through **perspective voxel projection** and **learning-aware feature fusion**.  
