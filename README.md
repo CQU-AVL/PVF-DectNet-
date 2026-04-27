@@ -6,7 +6,6 @@ This repository corresponds to the paper:
 
 > **PVF-DectNet++: Adaptive Multi-Modal Fusion with Perspective Voxels for 3D Object Detection**  
 > Ke Wang, Weilin Gao, Kai Chen, Tianyi Shao, Liyang Li, Tianqiang Zhou, Jianbo Lu  
-> *IEEE Transactions on Circuits and Systems for Video Technology*
 
 ---
 
